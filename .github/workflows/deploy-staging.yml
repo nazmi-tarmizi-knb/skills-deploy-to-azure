@@ -7,10 +7,10 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### Replace nazmi-tarmizi-knb with GitHub username ###
+  ### Replace nazmi-tarmizi-knb2 with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: nazmi-tarmizi-knb-azure-ttt
-  AZURE_WEBAPP_NAME: nazmi-tarmizi-knb-ttt-app
+  DOCKER_IMAGE_NAME: nazmi-tarmizi-knb2-azure-ttt
+  AZURE_WEBAPP_NAME: nazmi-tarmizi-knb2-ttt-app
   ###############################################
 
 jobs:
